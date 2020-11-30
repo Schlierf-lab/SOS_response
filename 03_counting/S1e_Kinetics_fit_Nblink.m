@@ -1,3 +1,6 @@
+% Analysis of the blinking time distribution
+% --Andreas Hartmann
+
 clear all;
 
 %% parameters

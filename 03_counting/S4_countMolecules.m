@@ -1,3 +1,6 @@
+% Molecules counting using the extracted optimal blinking tolerance time
+% --Andreas Hartmann
+
 clear all;
 
 %% parameters

@@ -1,3 +1,6 @@
+% User interface for interactive cell selection
+% --Andreas Hartmann
+
 function varargout = CellSelector(varargin)
 
 gui_Singleton = 1;

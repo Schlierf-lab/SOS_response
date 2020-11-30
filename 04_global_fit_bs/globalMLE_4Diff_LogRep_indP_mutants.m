@@ -1,3 +1,6 @@
+% Fitting of the replicate data to extract diffuion constants
+% --Andreas Hartmann
+
 function globalMLE_4Diff_LogRep_indP_mutants()
 
     %% parameters

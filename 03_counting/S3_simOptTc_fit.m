@@ -1,3 +1,6 @@
+% Fit of the optimal blinking tolerance time vs. underlying number of molecules
+% --Andreas Hartmann
+
 clear all;
 
 % load file

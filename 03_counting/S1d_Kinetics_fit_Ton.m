@@ -1,3 +1,6 @@
+% Analysis of the on-time distribution
+% --Andreas Hartmann
+
 clear all;
 
 %% parameters

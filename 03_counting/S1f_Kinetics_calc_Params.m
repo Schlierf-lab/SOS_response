@@ -1,3 +1,6 @@
+% Calculation of the photophysical parameters
+% --Andreas Hartmann
+
 clear all;
 
 % parameter

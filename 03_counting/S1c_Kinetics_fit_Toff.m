@@ -1,3 +1,6 @@
+% Analysis of the off-time distribution
+% --Andreas Hartmann
+
 clear all;
 
 %% parameters

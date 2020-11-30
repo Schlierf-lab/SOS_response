@@ -1,3 +1,6 @@
+% Extraction of the on-time, off-time, blinking time and bleaching time distributions
+% --Andreas Hartmann
+
 clear all;
 
 %% parameters

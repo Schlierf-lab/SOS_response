@@ -1,3 +1,6 @@
+% Time trace simulation to extract the optimal blinking tolerance time
+% --Andreas Hartmann
+
 function result=S2_simOptTc_measAct_varyMol_fast()
 
     addpath(genpath('scripts'));
