@@ -1,3 +1,6 @@
+% Extraction of the on-time, off-time, blinking time and bleaching time distributions
+% --Andreas Hartmann
+
 function Fit_Counting()    
 
     % - numerical infinitesimal calculation of populations
@@ -249,7 +252,7 @@ function Fit_Counting()
     plot(t,meanV1,'--b');    
     xlabel('time (min)');
     xlim([0 250]);
-    ylabel('LexA concentration (molecules/µm^2)');
+    ylabel('LexA concentration (molecules/Âµm^2)');
     title('cip 0.5');
 
     subplot(2,2,3);
@@ -259,7 +262,7 @@ function Fit_Counting()
     plot(t,meanV2,'--b');    
     xlabel('time (min)');
     xlim([0 250]);
-    ylabel('LexA concentration (molecules/µm^2)');
+    ylabel('LexA concentration (molecules/Âµm^2)');
     title('cip 3');
     
     subplot(2,2,4);
@@ -269,7 +272,7 @@ function Fit_Counting()
     plot(t,meanV3,'--b');    
     xlabel('time (min)');
     xlim([0 250]);
-    ylabel('LexA concentration (molecules/µm^2)');
+    ylabel('LexA concentration (molecules/Âµm^2)');
     title('cip 20');    
     
     str=['ks01=' num2str(opt_ks01)];
